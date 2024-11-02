@@ -1,0 +1,19 @@
+.Container{
+    text-align: center;
+}
+.Texto{
+    text-align: center;
+    background-color: blueviolet;
+    width: 1500px;
+    height: 250px;
+    font-size: medium;
+    text-align: center;
+    border-radius: 15px;
+    border-color: black;
+    border-style: groove;
+    border-width: 5px;
+}
+.Titulo{
+text-align: center;
+font-size: larger;
+}
